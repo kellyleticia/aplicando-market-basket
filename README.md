@@ -17,10 +17,10 @@ aplicando-market-basket/
 │   ├── matriz_por_tag.csv           # Amostras por categoria (dev, ed, rc)
 │   └── matriz_total.csv             # Combinações de todas as categorias
 └── scripts/
-    ├── criando_datasets.py   # Gera datasets de combinações aleatórias
-    ├── market_basket.py      # Aplica algoritmo Apriori e regras de associação
-    ├── README.md             # Documentação
-    └── requirements.txt      # Dependências (pandas, mlxtend)
+│   ├── criando_datasets.py   # Gera datasets de combinações aleatórias
+│   └── market_basket.py      # Aplica algoritmo Apriori e regras de associação  
+│── README.md             # Documentação
+└── requirements.txt      # Dependências (pandas, mlxtend)
 ```
 
 ---
