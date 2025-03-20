@@ -80,4 +80,3 @@ print(rules_filtered.head(5))
 - **Reprodutibilidade**: A semente aleatória (`random.seed(42)`) garante resultados consistentes.
 - **Personalização**: Ajuste `min_support` e `min_threshold` no script `market_basket.py` para refinar as regras.
 - **Dados**: Adicione transcrições de aulas em `transcricao_video_aulas` para análises futuras.
-```
